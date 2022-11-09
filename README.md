@@ -2,7 +2,14 @@
 
 Este projeto faz parte do curso de formação desenvolvedor em web full stack da Trybe. e foi o projeto final do bloco de front-end. E foi realizado em grupo.
 
-O grupo foi composto por Ce
+O grupo foi composto por:
+
+[![GitHub Badge](https://img.shields.io/badge/Cesar_Holanda-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/RasecMH)](https://github.com/RasecMH)
+[![GitHub Badge](https://img.shields.io/badge/Dener_Rodrigues-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/DenerRod)](https://github.com/DenerRod)
+[![GitHub Badge](https://img.shields.io/badge/Juliana_Espindola-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/julianaespindola)](https://github.com/julianaespindola)
+[![GitHub Badge](https://img.shields.io/badge/Bruno_Pelegrino-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/BrunoPelegrino)](https://github.com/BrunoPelegrino)
+[![GitHub Badge](https://img.shields.io/badge/Erika_Lima-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/erikadeolima)](https://github.com/erikadeolima)
+
 
 Para replicar o projeto, atente-se a cada passo descrito a seguir. Se tiver qualquer dúvida, nos envie por _email_ _erikadeo.lima@hotmail.com_! #vqv 🚀
 
@@ -71,5 +78,3 @@ Este projeto faz parte da formação da Trybe, ao clona-lo você concorda em ref
   npm run lint
   npm run lint:styles
   ```
-
- <summary><strong>:convenience_store: Desenvolvimento </strong></summary><br />
